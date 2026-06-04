@@ -66,8 +66,8 @@ export default function LandingPage() {
         {
           text: "Explore Content",          href: "#content"},
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/medium-shot-woman-posing-with-smartphone_23-2149424938.jpg"
-      imageAlt="People enjoying streaming content on various devices"
+      imageSrc="https://images.unsplash.com/photo-1603730030119-94b15f532a39?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxwZW9wbGUlMjB3YXRjaGluZyUyMHN0cmVhbWluZyUyMG9uJTIwZGV2aWNlc3xlbnwwfHx8fDE3MjA0MTYxMjZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
+      imageAlt="People engaging with StreamNest on various devices showing streaming content"
       mediaAnimation="slide-up"
       fixedMediaHeight={true}
       avatars={[
